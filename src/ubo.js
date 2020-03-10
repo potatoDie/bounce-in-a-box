@@ -1,5 +1,5 @@
 /*
- * Drawing an (unidentiefied?) bouncing object in a bounding container
+ * Drawing an (unidentified?) bouncing object in a bounding container
  */
 
 import Vec2 from './vec2.js';
